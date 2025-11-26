@@ -30,6 +30,7 @@ function draw() {
     showPoints();
     showFoundJewels();
     showFoundSkulls();
+    //test
 }
 
 /**
